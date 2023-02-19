@@ -31,7 +31,3 @@ h2 {
 #instructions {
   width: 600px;
 }
-
-#grid > div.painted {
-  background-color: blue;
-}
